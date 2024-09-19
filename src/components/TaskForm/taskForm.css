@@ -1,0 +1,12 @@
+.task-form-container {
+  display: flex;
+}
+
+.task-form-input {
+  padding: 20px;
+  padding-right: 50px;
+  border-radius: 12px;
+  font-size: 20px;
+  border: none;
+  width: 600px;
+}
