@@ -1,0 +1,9 @@
+.sidebar-title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.sidebar-title img {
+  height: 45px;
+}
